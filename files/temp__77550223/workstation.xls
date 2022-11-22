@@ -1,0 +1,110 @@
+﻿<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style></style>
+</head>
+<body><table class="ew-export-table" style="border-collapse: collapse">
+<tr>
+<td style="border: 1px solid #dddddd; padding: 5px">Workstation_Name</td>
+<td style="border: 1px solid #dddddd; padding: 5px">Workstation_Remark</td>
+<td style="border: 1px solid #dddddd; padding: 5px">User_Email</td>
+<td style="border: 1px solid #dddddd; padding: 5px">User_Name</td>
+<td style="border: 1px solid #dddddd; padding: 5px">User_Employee_Number</td>
+<td style="border: 1px solid #dddddd; padding: 5px">User_Phone_Number</td>
+<td style="border: 1px solid #dddddd; padding: 5px">Address_Name</td>
+<td style="border: 1px solid #dddddd; padding: 5px">Address_Street</td>
+<td style="border: 1px solid #dddddd; padding: 5px">Address_Zipcode</td>
+<td style="border: 1px solid #dddddd; padding: 5px">Address_City</td>
+<td style="border: 1px solid #dddddd; padding: 5px">Address_Country</td>
+<td style="border: 1px solid #dddddd; padding: 5px">Component_Type</td>
+<td style="border: 1px solid #dddddd; padding: 5px">Component_Category</td>
+<td style="border: 1px solid #dddddd; padding: 5px">Component_Make</td>
+<td style="border: 1px solid #dddddd; padding: 5px">Component_Model</td>
+<td style="border: 1px solid #dddddd; padding: 5px">Component_Serial_Number</td>
+<td style="border: 1px solid #dddddd; padding: 5px">Component_Display_Size</td>
+<td style="border: 1px solid #dddddd; padding: 5px">Component_Keyboard_Layout</td>
+<td style="border: 1px solid #dddddd; padding: 5px">Component_Type1</td>
+<td style="border: 1px solid #dddddd; padding: 5px">Component_Category1</td>
+<td style="border: 1px solid #dddddd; padding: 5px">Component_Make1</td>
+<td style="border: 1px solid #dddddd; padding: 5px">Component_Model1</td>
+<td style="border: 1px solid #dddddd; padding: 5px">Component_Serial_Number1</td>
+<td style="border: 1px solid #dddddd; padding: 5px">Component_Display_Size1</td>
+<td style="border: 1px solid #dddddd; padding: 5px">Component_Keyboard_Layout1</td>
+<td style="border: 1px solid #dddddd; padding: 5px">Component_Type2</td>
+<td style="border: 1px solid #dddddd; padding: 5px">Component_Category2</td>
+<td style="border: 1px solid #dddddd; padding: 5px">Component_Make2</td>
+<td style="border: 1px solid #dddddd; padding: 5px">Component_Model2</td>
+<td style="border: 1px solid #dddddd; padding: 5px">Component_Serial_Number2</td>
+<td style="border: 1px solid #dddddd; padding: 5px">Component_Display_Size2</td>
+<td style="border: 1px solid #dddddd; padding: 5px">Component_Keyboard_Layout2</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 5px">Flexplek 1</td>
+<td style="border: 1px solid #dddddd; padding: 5px">werkplek hoofdkantoor</td>
+<td style="border: 1px solid #dddddd; padding: 5px">jay_boere_H3VaX@example.org</td>
+<td style="border: 1px solid #dddddd; padding: 5px">Jay Boere</td>
+<td style="border: 1px solid #dddddd; padding: 5px">="332115"</td>
+<td style="border: 1px solid #dddddd; padding: 5px">072 1699581</td>
+<td style="border: 1px solid #dddddd; padding: 5px">Hoofdkantoor</td>
+<td style="border: 1px solid #dddddd; padding: 5px">Bakkersteeg 2</td>
+<td style="border: 1px solid #dddddd; padding: 5px">9057LC</td>
+<td style="border: 1px solid #dddddd; padding: 5px">Overzande</td>
+<td style="border: 1px solid #dddddd; padding: 5px">Nederland</td>
+<td style="border: 1px solid #dddddd; padding: 5px">Hardware</td>
+<td style="border: 1px solid #dddddd; padding: 5px">Laptop</td>
+<td style="border: 1px solid #dddddd; padding: 5px">HP </td>
+<td style="border: 1px solid #dddddd; padding: 5px">EliteBook 840</td>
+<td style="border: 1px solid #dddddd; padding: 5px">5CG0026CHV</td>
+<td style="border: 1px solid #dddddd; padding: 5px">14 inch</td>
+<td style="border: 1px solid #dddddd; padding: 5px">QWERTY</td>
+<td style="border: 1px solid #dddddd; padding: 5px"></td>
+<td style="border: 1px solid #dddddd; padding: 5px"></td>
+<td style="border: 1px solid #dddddd; padding: 5px"></td>
+<td style="border: 1px solid #dddddd; padding: 5px"></td>
+<td style="border: 1px solid #dddddd; padding: 5px"></td>
+<td style="border: 1px solid #dddddd; padding: 5px"></td>
+<td style="border: 1px solid #dddddd; padding: 5px"></td>
+<td style="border: 1px solid #dddddd; padding: 5px"></td>
+<td style="border: 1px solid #dddddd; padding: 5px"></td>
+<td style="border: 1px solid #dddddd; padding: 5px"></td>
+<td style="border: 1px solid #dddddd; padding: 5px"></td>
+<td style="border: 1px solid #dddddd; padding: 5px"></td>
+<td style="border: 1px solid #dddddd; padding: 5px"></td>
+<td style="border: 1px solid #dddddd; padding: 5px"></td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 5px">Flexplek 1</td>
+<td style="border: 1px solid #dddddd; padding: 5px">werkplek Sloten</td>
+<td style="border: 1px solid #dddddd; padding: 5px">jay_boere_H3VaX@example.org</td>
+<td style="border: 1px solid #dddddd; padding: 5px">Jay Boere</td>
+<td style="border: 1px solid #dddddd; padding: 5px">="332115"</td>
+<td style="border: 1px solid #dddddd; padding: 5px">072 1699581</td>
+<td style="border: 1px solid #dddddd; padding: 5px">Sloten</td>
+<td style="border: 1px solid #dddddd; padding: 5px">Woltersbaan15</td>
+<td style="border: 1px solid #dddddd; padding: 5px">3208LB</td>
+<td style="border: 1px solid #dddddd; padding: 5px">Sloten</td>
+<td style="border: 1px solid #dddddd; padding: 5px">Nederland</td>
+<td style="border: 1px solid #dddddd; padding: 5px">Hardware</td>
+<td style="border: 1px solid #dddddd; padding: 5px">Thin Client</td>
+<td style="border: 1px solid #dddddd; padding: 5px">HP</td>
+<td style="border: 1px solid #dddddd; padding: 5px">t630</td>
+<td style="border: 1px solid #dddddd; padding: 5px">8CN01009NC</td>
+<td style="border: 1px solid #dddddd; padding: 5px"></td>
+<td style="border: 1px solid #dddddd; padding: 5px"></td>
+<td style="border: 1px solid #dddddd; padding: 5px">Hardware</td>
+<td style="border: 1px solid #dddddd; padding: 5px">Monitor</td>
+<td style="border: 1px solid #dddddd; padding: 5px">HP</td>
+<td style="border: 1px solid #dddddd; padding: 5px">EliteDisplay E24</td>
+<td style="border: 1px solid #dddddd; padding: 5px">CNK8510F6N</td>
+<td style="border: 1px solid #dddddd; padding: 5px">24 inch</td>
+<td style="border: 1px solid #dddddd; padding: 5px"></td>
+<td style="border: 1px solid #dddddd; padding: 5px">Hardware</td>
+<td style="border: 1px solid #dddddd; padding: 5px">Monitor</td>
+<td style="border: 1px solid #dddddd; padding: 5px">HP</td>
+<td style="border: 1px solid #dddddd; padding: 5px">EliteDisplay E24</td>
+<td style="border: 1px solid #dddddd; padding: 5px">CNK8510F6P</td>
+<td style="border: 1px solid #dddddd; padding: 5px">24 inch</td>
+<td style="border: 1px solid #dddddd; padding: 5px"></td>
+</tr>
+</table></body>
+</html>
