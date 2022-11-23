@@ -1,11 +1,18 @@
 
 -- Database Configuration
+
 DB_CONNECTION=mysql
+
 DB_HOST=127.0.0.1
+
 DB_PORT=3306
+
 DB_DATABASE=workstation
+
 DB_USERNAME=workstation
+
 DB_PASSWORD="workstation"
+
 
 Database Location
 SQL Folder - > workstation.sql
